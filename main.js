@@ -1,7 +1,7 @@
 // main.js
 
 document.addEventListener("DOMContentLoaded", function () {
-    const dataUrl = "https://github.com/RaphaLefth/dashboard/blob/main/productos_ripley_paginas_1_a_5.json";
+    const dataUrl = "productos_ripley_paginas_1_a_5.json";
     let productos = [];
   
     // Cargar datos
